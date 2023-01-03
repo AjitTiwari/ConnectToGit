@@ -36,4 +36,8 @@ use >>git branch to see number of branches
 use >>git checkout feauture1 to switch our branch to featuure1
 use >>git merge feature1 to merge the branches
 
+--           Final
+use >>git -u push origin master to push the code to the server
+
+
 */
